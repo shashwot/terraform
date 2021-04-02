@@ -1,4 +1,4 @@
-## Commands used in the Course
+## Commands used
 
 ### initialize
 
