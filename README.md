@@ -14,9 +14,9 @@
 
 ### destroy a single resource
 
-    terraform destroy -target aws_vpc.myapp-vpc
+    terraform destroy -target aws_vpc.development-vpc
 
-### destroy everything fromtf files
+### destroy everything from tf files
 
     terraform destroy
 
@@ -26,4 +26,4 @@
 
 ### show current state of a specific resource/data
 
-    terraform state show aws_vpc.myapp-vpc    
+    terraform state show aws_vpc.development-vpc  
